@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>789-Zip</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 31 Aug 2024 19:06:27 GMT</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AkshayKalose/789-Zip/releases/download/v0.1.0/789-Zip_v0.1.0.dmg" length="2515750" type="application/octet-stream" sparkle:edSignature="3RZu38CC5Ze+t1ynTIHlThSjnrgbfJCs5qT72i+pxxVx1Ko+We3dsADdFg5xWW3s/bPSWFEqec9ctkESqy+TCw=="/>
+        </item>
+    </channel>
+</rss>
