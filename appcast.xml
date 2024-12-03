@@ -3,6 +3,14 @@
     <channel>
         <title>789-Zip</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 03 Dec 2024 08:25:59 GMT</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AkshayKalose/789-Zip/releases/download/v0.1.1/789-Zip_v0.1.1.dmg" length="2851643" type="application/octet-stream" sparkle:edSignature="Ju1ciagYnA2XIeM/ZAZL4cjqBl3bbb3iiEi0S4/hZG/yL3+f3vynxvXHehXA4iAek1pyBMGEj2ndVV07TblZDA=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 31 Aug 2024 19:06:27 GMT</pubDate>
             <sparkle:version>1</sparkle:version>
